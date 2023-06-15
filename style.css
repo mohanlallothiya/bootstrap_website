@@ -1,0 +1,185 @@
+
+.logoimage{
+    height:45px;
+    width:160px;
+}
+.selectstyle{
+    border: none;
+    color:#000000;
+    font-size:16px;
+    font-family: Nunito Sans;
+}
+.navlink,.navlink:hover,.navlink:active{
+    color:#000000;
+    font-size:16px;
+    font-family: Nunito Sans;
+    text-decoration: none;
+    width:50px;
+}
+.heading1{
+    font-family: Nunito Sans;
+    font-size: 30px;
+    font-weight: bold;
+}
+.para1{
+    font-family: Nunito Sans;
+    font-size: 16px;
+}
+.checkbtn{
+    width:150px;
+}
+.con2{
+    background-color:#F8FAFC ;
+}
+.subcon2{
+    border-radius: 25px;
+}
+.heading2{
+    font-family: Nunito Sans;
+    font-size: 24px;
+    font-weight: bold;    
+}
+.heading3{
+    font-family: Nunito Sans;
+    font-size:20px;
+    font-weight: bold;
+}
+.para3{
+    font-family: Nunito Sans;
+    font-size:14px;
+}
+.personimage{
+    background: transparent;
+    width:250px;
+    height:150px;
+}
+.heading4{
+    font-family: Nunito Sans;
+    font-size:22px;
+    font-weight: bold;
+}
+.para4{
+    font-family: Nunito Sans;
+    font-size:20px;
+}
+.image2{
+    height: 60px;
+    width:60px;
+    background: transparent;
+}
+.carousolcon{
+    background-color: #F8FAFC;
+    height:40vh;
+    border-radius: 25px;
+    margin-bottom: 200px;
+}
+.carousolcon2{
+    width:98%;
+}
+.carouselItem{
+    border-radius: 25px;
+    height:280px;
+    width:280px;
+    background-color: #ffffff;
+}
+.imagec{
+    height:40px;
+    width:40px;
+}
+.headingc{
+    font-size: 14px;
+    font-weight: bold;
+    font-family: Nunito Sans;
+}
+.designation{
+    font-size: 14px;
+    font-family: Nunito Sans;
+}
+.dgtext{
+    font-size: 14px;
+    font-family: Nunito Sans;
+}
+.starImage{
+    height:15px;
+    width:15px;
+}
+.arrow{
+    font-size:20px;
+    font-weight: bold;
+    padding:10px 18px;
+    background-color: #ffffff;
+}
+.logocol{
+    height:120px;
+}
+.logoheading{
+    font-family: Nunito Sans;
+    font-size: 18px;
+    font-weight: bold;
+}
+.logoimage2{
+    height:70px;
+    width:180px;
+}
+.logoimage3{
+    height:80px;
+    width:80px;
+}
+.footer{
+    height:30vh;
+    background-color: #000000;
+    color:#ffffff;
+}
+.footerText{
+    padding-top: 20vh;
+    font-family: Nunito Sans;
+    font-size: 20px;
+}
+.wave{
+    position:absolute;
+}
+.conxx{
+    position: relative;
+}
+@media(min-width:768px){
+    .personimage{
+        width:180px;
+        height:120px;
+    }
+    .heading3{
+        font-size:18px;
+    }
+}
+
+@media(min-width:992px){
+    .navlink,.navlink:hover,.navlink:active{
+        width:80px;
+    }
+    .heading1{
+        font-size: 40px;
+    }
+    .para1{
+        font-size: 20px;
+    }
+    .heading2{
+        font-size: 32px;   
+    }
+    .heading3{
+        font-size:20px;
+    }
+    .para3{
+        font-size:17px;
+    }
+    .heading4{
+        font-size:24px;
+    }
+    .para4{
+        font-size:21px;
+    }
+    .carousolcon{
+        height:50vh;
+    }
+    .subcon2{
+        width:200px;
+    }
+}
